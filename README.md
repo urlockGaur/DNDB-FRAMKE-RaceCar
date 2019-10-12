@@ -7,7 +7,7 @@ WCTC Midterm application to be modified by the students
 2. Add an implementation that makes use of the existing Driver() abstract class (*create your own new driver*)
 
 #### **Extra Credit!**
-1. Create a new method **in the RaceCar()** abstract class called **StopEngine()** that will be called from RaceCar.cs using the code below.
+1. Create a new method **in the RaceCar()** abstract class called **StopEngine()** that will be **called from RaceCar.cs** using the code below.
     
 ```c
         public void EndRace()
