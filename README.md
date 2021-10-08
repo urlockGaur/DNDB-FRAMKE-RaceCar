@@ -8,7 +8,7 @@ WCTC Midterm application to be modified by the students
 
 #### **Extra Credit!**
 1. Create a new method **in the RaceCar()** abstract class called **StopEngine()** that will be **called from RaceCar.cs** using the code below.
-    a. Replace the method in RaceTrack.cs with the code below.
+    1. Replace the method in RaceTrack.cs with the code below.
     
 ```c
         public void EndRace()
